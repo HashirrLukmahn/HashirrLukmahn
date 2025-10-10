@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashirr!</h1>
-<h3 align="center">I am a software developer and a recent graduate from the University of Colorado Boulder!</h3>
+<h3 align="center">I am a Software Engineer at ScaleKit Inc. and a graduate from the University of Colorado Boulder!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashirrlukmahn&label=Profile%20views&color=0e75b6&style=flat" alt="hashirrlukmahn" /> </p>
 
