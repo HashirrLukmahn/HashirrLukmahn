@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashirr!</h1>
-<h3 align="center">I am a Software Engineer at ScaleKit Inc. and a graduate from the University of Colorado Boulder!</h3>
+<parameter name="h3" align="center">I am a Software Engineer at ScaleKit Inc. and a graduate from the University of Colorado Boulder!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashirrlukmahn&label=Profile%20views&color=0e75b6&style=flat" alt="hashirrlukmahn" /> </p>
 
@@ -25,56 +25,95 @@
 
 <h3 align="left">📊 GitHub Statistics:</h3>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats - Using the main public Vercel instance -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashirrlukmahn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashirrlukmahn&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hashirrlukmahn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
 </p>
 
-<!-- Top Languages - Multiple styles to choose from -->
-<h3 align="left">💻 Language Statistics:</h3>
+<!-- Top Languages - Multiple Layout Options -->
+<h3 align="left">💻 Most Used Languages:</h3>
 
-<!-- Option 1: Compact Layout with Radical Theme -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirrlukmahn&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages Compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirrlukmahn&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
-<!-- Option 2: Donut Chart (uncomment to use) -->
+<!-- Alternative: Donut Chart Layout (uncomment to use) -->
 <!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirrlukmahn&layout=donut&theme=radical&hide_border=true" alt="Top Languages Donut" />
 </p>
 -->
 
-<!-- Option 3: Pie Chart (uncomment to use) -->
+<!-- Alternative: Pie Chart Layout (uncomment to use) -->
 <!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirrlukmahn&layout=pie&theme=radical&hide_border=true" alt="Top Languages Pie" />
 </p>
 -->
 
-<!-- GitHub Activity Graph -->
-<h3 align="left">📈 Contribution Activity:</h3>
+<!-- GitHub Streak Stats - Using the new demolab.com domain (more reliable than herokuapp) -->
+<h3 align="left">🔥 Contribution Streak:</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hashirrlukmahn&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Alternative Streak URL if demolab is down: -->
+<!-- <img src="https://github-readme-streak-stats-eight.vercel.app?user=hashirrlukmahn&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
+
+<!-- GitHub Activity Graph - This one works reliably -->
+<h3 align="left">📈 Contribution Activity Graph:</h3>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirrlukmahn&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Profile Trophy - Using Vercel instance -->
 <h3 align="left">🏆 GitHub Achievements:</h3>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashirrlukmahn&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hashirrlukmahn&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-<!-- Profile Summary Cards (uncomment to use) -->
+<!-- Additional Language Stats Option: Detailed breakdown -->
+<!-- Uncomment to use comprehensive language and commit statistics -->
 <!-- 
-<h3 align="left">📊 Detailed Profile Summary:</h3>
+<h3 align="left">📊 Detailed Language Statistics:</h3>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashirrlukmahn&theme=radical" alt="Profile Summary" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashirrlukmahn&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hashirrlukmahn&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirrlukmahn&layout=compact&theme=radical&hide_border=true&custom_title=Languages%20by%20Commit&langs_count=8" alt="Languages by Commit" />
 </p>
 -->
 
 ###
+
+<!-- NOTES FOR TROUBLESHOOTING:
+If any widget stops working:
+
+1. GitHub README Stats (github-readme-stats.vercel.app):
+   - This is the most reliable service and should work
+   - If it doesn't load, the public instance may be rate-limited
+   - You can self-host on Vercel for better reliability
+   
+2. Streak Stats:
+   - Primary: streak-stats.demolab.com (official, most reliable)
+   - Backup: github-readme-streak-stats-eight.vercel.app
+   - If both fail, you may need to self-host
+   
+3. Activity Graph (github-readme-activity-graph.vercel.app):
+   - Generally very reliable
+   - Uses Vercel hosting
+   
+4. Profile Trophy (github-profile-trophy.vercel.app):
+   - Hosted on Vercel, usually reliable
+   - Has many theme options
+
+To customize themes, you can change 'radical' to any of these:
+- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+For self-hosting options, check out the original repositories:
+- GitHub README Stats: https://github.com/anuraghazra/github-readme-stats
+- Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats
+- Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
+- Profile Trophy: https://github.com/ryo-ma/github-profile-trophy
+-->
