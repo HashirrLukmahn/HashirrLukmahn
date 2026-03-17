@@ -23,12 +23,12 @@
 
 ###
 
-<h3 align="left">📊 GitHub Statistics:</h3>
+<!-- <h3 align="left">📊 GitHub Statistics:</h3>
 
 <!-- GitHub Stats - Using the main public Vercel instance -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hashirrlukmahn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-</p>
+</p> --> -->
 
 <!-- Top Languages - Multiple Layout Options -->
 <h3 align="left">💻 Most Used Languages:</h3>
