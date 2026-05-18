@@ -34,7 +34,7 @@
 <h3 align="left">💻 Most Used Languages:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirrlukmahn&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="<img src="./profile/stats.svg"/>"alt="Top Languages" />
 </p>
 
 <!-- Alternative: Donut Chart Layout (uncomment to use) -->
