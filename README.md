@@ -34,7 +34,7 @@
 <h3 align="left">💻 Most Used Languages:</h3>
 
 <p align="center">
-  <img src="<img src="./profile/stats.svg"/>"alt="Top Languages" />
+  <img src="./profile/stats.svg"><"alt="Top Languages"/>
 </p>
 
 <!-- Alternative: Donut Chart Layout (uncomment to use) -->
