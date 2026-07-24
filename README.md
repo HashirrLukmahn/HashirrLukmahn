@@ -78,13 +78,13 @@
 
 <!-- Additional Language Stats Option: Detailed breakdown -->
 <!-- Uncomment to use comprehensive language and commit statistics -->
-<!-- 
+
 <h3 align="left">📊 Detailed Language Statistics:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirrlukmahn&layout=compact&theme=radical&hide_border=true&custom_title=Languages%20by%20Commit&langs_count=8" alt="Languages by Commit" />
 </p>
--->
+
 
 ###
 
