@@ -21,7 +21,9 @@ jobs:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true'
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # A PAT (user token) is used here because include_all_commits/count_private
+          # are not readable by the built-in GITHUB_TOKEN ("Resource not accessible by integration").
+          token: ${{ secrets.TROPHY_PAT }}
 
       - name: Generate top languages card
         continue-on-error: true
