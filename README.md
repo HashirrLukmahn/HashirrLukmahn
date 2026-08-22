@@ -30,14 +30,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hashirrlukmahn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
 </p> --> -->
 
-<!-- Top Languages - Multiple Layout Options -->
-<!---
-<h3 align="left">💻 Most Used Languages:</h3>
+<h3 align="left">📊 GitHub Statistics:</h3>
 
 <p align="center">
-  <img src="./profile/stats.svg">
-</p> 
--->
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
 <!-- Alternative: Donut Chart Layout (uncomment to use) -->
 <!-- 
 <p align="center">
@@ -73,7 +70,7 @@
 <h3 align="left">🏆 GitHub Achievements:</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashirrlukmahn&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </p> 
 
 <!-- Additional Language Stats Option: Detailed breakdown -->
@@ -82,7 +79,7 @@
 <h3 align="left">📊 Detailed Language Statistics:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirrlukmahn&layout=compact&theme=radical&hide_border=true&custom_title=Languages%20by%20Commit&langs_count=8" alt="Languages by Commit" />
+  <img src="./profile/top-langs.svg" alt="Languages by Commit" />
 </p>
 
 

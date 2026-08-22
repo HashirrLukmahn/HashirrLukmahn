@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
+        continue-on-error: true
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
@@ -23,6 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
+        continue-on-error: true
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
@@ -31,6 +33,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy card
+        continue-on-error: true
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
@@ -39,9 +42,10 @@ jobs:
           no-frame: true
           max-cols: 7
           max-rows: 1
-          token: ${{ secrets.TROPHY_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push cards
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
