@@ -42,7 +42,9 @@ jobs:
           no-frame: true
           max-cols: 7
           max-rows: 1
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # This action's GraphQL query is rejected by the built-in GITHUB_TOKEN,
+          # so it requires a Personal Access Token stored as the TROPHY_PAT secret.
+          token: ${{ secrets.TROPHY_PAT }}
 
       - name: Commit and push cards
         if: always()
