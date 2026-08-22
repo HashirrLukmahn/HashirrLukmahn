@@ -60,7 +60,7 @@
 </p>
 
 <!-- Alternative Streak URL if demolab is down: -->
-<!-- <img src="https://github-readme-streak-stats-eight.vercel.app?user=hashirrlukmahn&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=hashirrlukmahn&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <!-- GitHub Activity Graph - This one works reliably -->
 <h3 align="left">📈 Contribution Activity Graph:</h3>
