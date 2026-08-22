@@ -53,11 +53,11 @@
 -->
 
 <!-- GitHub Streak Stats - Using the new demolab.com domain (more reliable than herokuapp) -->
-<h3 align="left">🔥 Contribution Streak:</h3>
+<!-- <h3 align="left">🔥 Contribution Streak:</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hashirrlukmahn&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <!-- Alternative Streak URL if demolab is down: -->
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=hashirrlukmahn&theme=radical&hide_border=true" alt="GitHub Streak" />
