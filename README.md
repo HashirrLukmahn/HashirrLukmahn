@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashirr!</h1>
-<parameter name="h3" align="center">I am a Software Engineer at ScaleKit Inc. and a graduate from the University of Colorado Boulder!</h3>
+<parameter name="h3" align="center">I am a Member of Technical Staff at Parameter.ai and a graduate from the University of Colorado Boulder!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashirrlukmahn&label=Profile%20views&color=0e75b6&style=flat" alt="hashirrlukmahn" /> </p>
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashirrlukmahn&label=Profile%20views&color=0e75b6&style=flat" alt="hashirrlukmahn" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
